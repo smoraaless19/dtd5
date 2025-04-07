@@ -1,0 +1,20 @@
+# Ejercicio DTD5 - Corrección de DTD Interna
+
+##  Alumno
+**Nombre:** Sergio Morales  
+**Curso:** ASIR1  
+**Fecha de Realización:** 06/04/2025  
+
+##  Descripción
+En este ejercicio se ha corregido una **DTD interna** con errores que impedían la validación del documento XML.  
+El XML representa un curso con varios alumnos, donde cada alumno tiene un nombre, edad y grupo.
+
+## Tecnologías
+- XML 1.0
+- DTD interna
+- Editor: Visual Studio Code
+
+##  Estado
+DTD corregida. Documento XML validado correctamente.
+
+## Estructura del Proyecto
